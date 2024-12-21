@@ -2,7 +2,7 @@
 
 ## Requisitos 🛠️
 
-- Possuir o Docker instalado na máquina.
+- Possuir o Docker instalado e em execução na máquina.
 - Abrir o Bash ou CMD no diretório principal do projeto.
 
 ## Execução ⚙️
